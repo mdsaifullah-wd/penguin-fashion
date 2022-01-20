@@ -4,3 +4,6 @@ body {
 .my-text-dark {
   color: #3c3c3c;
 }
+.custom-radius {
+  border-radius: 15px;
+}
